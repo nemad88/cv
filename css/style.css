@@ -29,7 +29,7 @@
     transition: none !important;
 }
 
-#resume-cards .card {
+.resume-cards-animation {
     animation: moveInLeft 1s ease-out;
 }
 
